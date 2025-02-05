@@ -1,7 +1,5 @@
 # Biogas Production ML Analysis
 
-This repository contains the source code for the paper titled:
-
 **A Machine Learning Approach to Feature Selection and Uncertainty Analysis for Biogas Production in Wastewater Treatment Plants**
 
 **Authors:**
@@ -25,15 +23,10 @@ This predictive capability, combined with an understanding of influencing factor
 
 ---
 
-## Software Implementation
+## Software Implementation and Data Availability
 
-All source code used to generate the results is available in Jupyter Notebook files (`.ipynb`).
-
----
-
-## Data Availability
-
-All data, materials, and code are available upon request from the corresponding author.
+All source code used to generate the results is available in Jupyter Notebook file.
+All data and materials are available upon request from the corresponding author.
 
 ---
 
@@ -69,15 +62,4 @@ pip install -r requirements.txt
 
 All source code is made available under the **BSD 3-Clause License**. You are free to use and modify the code without warranty, provided that you provide attribution to the authors. For the full license text, see the `LICENSE` file.
 
-The manuscript text is not open source. The authors retain the rights to the article content, which is currently submitted for publication in **Waste Management**.
-
----
-
-## Contact
-
-For inquiries or to request data, please contact the corresponding author:
-
-**Corresponding Author:**  
-Shabnam Sadri Moghaddam  
-**Email:** sadrimoghaddam@kntu.ac.ir
-```
+The manuscript text is not open source. The authors retain the rights to the article content, which is currently submitted for publication in **Waste Management** journal.
