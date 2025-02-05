@@ -1,8 +1,6 @@
 # Biogas Production ML Analysis
 
-## Overview
-
-This repository contains the source code and data for the paper titled:
+This repository contains the source code for the paper titled:
 
 **A Machine Learning Approach to Feature Selection and Uncertainty Analysis for Biogas Production in Wastewater Treatment Plants**
 
