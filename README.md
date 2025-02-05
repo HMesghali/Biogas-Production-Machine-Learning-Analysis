@@ -2,16 +2,6 @@
 
 **A Machine Learning Approach to Feature Selection and Uncertainty Analysis for Biogas Production in Wastewater Treatment Plants**
 
-**Authors:**
-- Mahsa Samkhaniani
-- Shabnam Sadri Moghaddam
-- Hassan Mesghali
-- Amirhossein Ghajari
-- Nima Gozalpour
-
-### The paper is available at: https://www.sciencedirect.com/journal/waste-management
----
-
 ## Abstract
 
 The increasing demand for effective waste management and renewable energy has spurred research into predicting biogas production in wastewater treatment plants. This study presents a comprehensive process, beginning with data collection from an operational plant, followed by detailed analysis to address potential issues. A key contribution is the development of a robust machine learning model, fine-tuned using advanced optimization techniques. To enhance its practical utility, prediction intervals were integrated to quantify uncertainty, enabling regulators to make informed decisions.
@@ -62,3 +52,13 @@ pip install -r requirements.txt
 All source code is made available under the **BSD 3-Clause License**. You are free to use and modify the code without warranty, provided that you provide attribution to the authors. For the full license text, see the `LICENSE` file.
 
 The manuscript text is not open source. The authors retain the rights to the article content, which is currently submitted for publication in **Waste Management** journal.
+
+**Authors:**
+- Mahsa Samkhaniani
+- Shabnam Sadri Moghaddam
+- Hassan Mesghali
+- Amirhossein Ghajari
+- Nima Gozalpour
+
+### The paper is available at: https://www.sciencedirect.com/journal/waste-management
+---
