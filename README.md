@@ -9,8 +9,7 @@
 - Amirhossein Ghajari
 - Nima Gozalpour
 
-The paper is available at: [Original Paper](https://www.example.com](https://www.sciencedirect.com/journal/waste-management)
-
+The paper is available at: https://www.sciencedirect.com/journal/waste-management
 ---
 
 ## Abstract
