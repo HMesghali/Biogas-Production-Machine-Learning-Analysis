@@ -53,12 +53,15 @@ All source code is made available under the **BSD 3-Clause License**. You are fr
 
 The manuscript text is not open source. The authors retain the rights to the article content, which is currently submitted for publication in **Waste Management** journal.
 
-**Authors:**
+## Authors:
 - Mahsa Samkhaniani
 - Shabnam Sadri Moghaddam
 - Hassan Mesghali
 - Amirhossein Ghajari
 - Nima Gozalpour
 
-### The paper is available at: https://www.sciencedirect.com/journal/waste-management
 ---
+
+## Link to the paper:
+  https://www.sciencedirect.com/journal/waste-management
+
