@@ -61,5 +61,4 @@ All source code is made available under the **BSD 3-Clause License**. You are fr
 ---
 
 ## Link to the paper:
-  https://www.sciencedirect.com/journal/waste-management
-
+Currently under review. Link will be added upon acceptance.
