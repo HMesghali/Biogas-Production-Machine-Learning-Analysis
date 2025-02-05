@@ -51,8 +51,6 @@ pip install -r requirements.txt
 
 All source code is made available under the **BSD 3-Clause License**. You are free to use and modify the code without warranty, provided that you provide attribution to the authors. For the full license text, see the `LICENSE` file.
 
-The manuscript text is not open source. The authors retain the rights to the article content, which is currently submitted for publication in **Waste Management** journal.
-
 ## Authors:
 - Mahsa Samkhaniani
 - Shabnam Sadri Moghaddam
