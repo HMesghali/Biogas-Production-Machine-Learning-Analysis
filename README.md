@@ -1,4 +1,4 @@
-# Biogas Production ML Analysis
+# Biogas Production Machine Learning Analysis
 
 **A Machine Learning Approach to Feature Selection and Uncertainty Analysis for Biogas Production in Wastewater Treatment Plants**
 
