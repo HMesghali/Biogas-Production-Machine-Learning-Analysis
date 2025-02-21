@@ -57,4 +57,4 @@ All source code is made available under the **BSD 3-Clause License**. You are fr
 ---
 
 ## Link to the paper:
-Currently under review. Link will be added upon acceptance.
+https://www.sciencedirect.com/science/article/pii/S0956053X25000959
